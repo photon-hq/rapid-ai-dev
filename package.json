@@ -3,7 +3,7 @@
     "version": "1.0.1",
     "description": "Toolkit for rapid AI and agent prototyping with reusable building blocks for terminal-first development",
     "author": "GreatSomething",
-    "license": "MIT",
+    "license": "Apache-2.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/sg-hq/rapid-ai-dev.git"
